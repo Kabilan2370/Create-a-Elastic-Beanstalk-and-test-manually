@@ -3,7 +3,7 @@ What is Elastic Beanstalk ?
           With Elastic Beanstalk, you can quickly deploy and manage applications in the AWS Cloud without having to learn about the infrastructure that runs those applications.
 Elastic Beanstalk reduces management complexity without restricting choice or control.
           
-  important note : Mostly EBS used for devlopers. Because,as a developer they do not know abount how to create correct environment in aws.Used this service they can easily create a server machine how they expect. 
+  important note : Mostly EBS used by devlopers. Because,as a developer they do not know abount how to create correct environment in aws. Used this service they can easily create a server machine how they expect to deploy them code. 
 
 1. For this project,First we create IAM role with a name of eg:beanStalk then create a  key pair and security group for ec2 machine.
 
